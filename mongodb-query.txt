@@ -1,0 +1,11 @@
+> use bankstatement
+
+> db.createCollection("userlogin")
+
+> db.userlogin.insert({
+username: "manthan",
+password: "man123"
+},{
+username: "adminis",
+password: "adam123"
+})
