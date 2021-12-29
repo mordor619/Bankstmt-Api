@@ -1,3 +1,10 @@
+start the mongo server on port 27017(default)
+open cmd. run this->
+>mongod
+
+
+
+open mongodb console and run this->
 > use bankstatement
 
 > db.createCollection("userlogin")
