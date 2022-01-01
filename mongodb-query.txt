@@ -12,7 +12,4 @@ open mongodb console and run this->
 > db.userlogin.insert({
 username: "manthan",
 password: "man123"
-},{
-username: "adminis",
-password: "adam123"
 })
